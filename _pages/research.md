@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<div style={{ textAlign: 'justify'}}>
+<div style={{ textAlign: 'justify' }}>
 
 ## 1. Equal Inheritance Rights and their Intergenerational Effects: Evidence from India
 
