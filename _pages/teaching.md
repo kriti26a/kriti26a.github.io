@@ -10,7 +10,10 @@ author_profile: true
 * Econometrics, *2023-24*
 * Microeconomics 1, *Spring 2023-24*
 * Advanced Mathematics, *Spring 2023-24*
-
+* Applied Economics, *Fall 2023-24*
+* Advanced Statistics, *Fall 2023-24*
+* Microeconomics 2, *Fall 2023-24*
+  
 **Teaching Assistant, Department of Economics, University of Manchester**
 
 * Econometrics, 2020-21
